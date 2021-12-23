@@ -1,0 +1,92 @@
+
+https://cimpleo.com/blog/simple-arduino-ph-meter/
+https://cimpleo.com/blog/simple-arduino-ph-meter/
+https://forum.arduino.cc/t/ph-sensor-detection-circuit-design/478631
+https://scidle.com/how-to-use-a-ph-sensor-with-arduino/
+
+Sensores
+
+Sensor PH 1
+  DF robot Gravity SEN0249
+  Especificaciones:
+  - Analógico 
+  - Alimentación 5V
+  - Salida 0-4V
+  - Rango: 0 - 10 pH 
+  - Presición: +-0.1ph 
+
+  Links 
+  https://www.dfrobot.com/product-1668.html
+  https://wiki.dfrobot.com/Gravity__Analog_Spear_Tip_pH_Sensor___Meter_Kit__For_Soil_And_Food_Applications__SKU__SEN0249#Documents
+
+Sensor PH 2
+  Modelo de placa de lectura: PH4502C
+  - Analógico
+  - Alimentación 5V
+  - Salida 
+  - Rango:
+  - Presición:
+
+  Links 
+  https://cimpleo.com/blog/simple-arduino-ph-meter/
+  https://forum.arduino.cc/t/ph-sensor-detection-circuit-design/478631
+  https://scidle.com/how-to-use-a-ph-sensor-with-arduino/
+
+Sensor PH 3
+  Modelo DF robot Gravity SEN0169-V2
+  - Analógico
+  - Alimentación 5V
+  - Salida 0- 4V
+  - Rango: 0 -10 pH
+  - Presición: 0.1pH
+  
+  Links 
+  https://wiki.dfrobot.com/Gravity__Analog_Spear_Tip_pH_Sensor___Meter_Kit__For_Soil_And_Food_Applications__SKU__SEN0249
+
+Sensor PH 4
+  Modelo ph/opr?
+  - Analógico
+  - Alimentación 
+  - Salida 
+  - Rango: 
+  - Presición: 
+  
+  Links 
+  
+
+Sensor OD 1
+  Modelo Atlas-Scientific Probe grado Lab ENV-40-DOX
+  - Serial
+  - Alimentación 3.3V - 5V
+  - Salida i2C
+  - Rango: 0 - 100 mg/L
+  - Presición: 0.05 mg/L
+  
+  Links 
+  https://atlas-scientific.com/embedded-solutions/ezo-dissolved-oxygen-circuit/
+  https://atlas-scientific.com/probes/dissolved-oxygen-probe/
+
+Sensor OD 2
+  Modelo DFrobots SEN0237-A
+  - Analógico
+  - Alimentación 3.3V - 5.5V
+  - Salida 0 - 3V
+  - Rango: 0 - 20 mg/L
+  - Presición: 
+  
+  Links 
+  https://atlas-scientific.com/embedded-solutions/ezo-dissolved-oxygen-circuit/
+  https://atlas-scientific.com/probes/dissolved-oxygen-probe/
+
+Sensor NO3
+  Modelo DFrobots
+  - Analógico
+  - Alimentación 3.3V - 5.5V
+  - Salida 0 - 3V
+  - Rango: 0 - 20 mg/L
+  - Presición: 
+  
+  Links 
+  https://atlas-scientific.com/embedded-solutions/ezo-dissolved-oxygen-circuit/
+  https://atlas-scientific.com/probes/dissolved-oxygen-probe/
+
